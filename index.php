@@ -106,7 +106,9 @@
       </h2>
       <h3 align="center">
         <a align="center" href="index.php" class="btn btn-primary">I'm not sure.</a>
-        <a align="center" href="#" class="btn btn-success">I am awake.</a>
+        <input type="hidden" value="0" id="theValue" />
+        <a align="center" href="javascript:;" onclick="addElement();" class="btn btn-success">I am awake.</a>
+        <div id="myDiv"> </div>
       </h3>
     </div>
   </div>
