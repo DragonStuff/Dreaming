@@ -102,7 +102,7 @@
   <div class="row">
     <div class="col-md-12">
       <h2 align="center">
-        Sum of Random Number and Daily Number
+        Are you dreaming?
       </h2>
       <h3 align="center">
         <a align="center" href="index.php" class="btn btn-primary">I'm not sure.</a>
